@@ -1,0 +1,4 @@
+levelName 1
+borderHeight 20
+borderWidth 80
+starSpawnChance 70

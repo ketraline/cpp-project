@@ -1,0 +1,14 @@
+levelName 1
+difficultyMult 1;
+timeLimit 90
+borderHeight 20
+borderWidth 80
+difficultyIncreaseCount 1
+starQuota 10
+starSpawnChance 50
+hunterMax 2
+hunterSizes 1,2,2,1,1,3,3,1,2,2
+hunterSizesChance 25,25,20,20,10
+hunterSpawnChance 3
+hunterDamage 10
+hunterMaxBounces 2
